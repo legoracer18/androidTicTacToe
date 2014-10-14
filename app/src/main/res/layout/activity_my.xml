@@ -26,7 +26,6 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/one"
                 android:id="@+id/one"
                 android:layout_column="0"
                 android:textSize="70dp" />
@@ -34,7 +33,6 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/two"
                 android:id="@+id/two"
                 android:layout_column="1"
                 android:textSize="70dp" />
@@ -42,7 +40,6 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/three"
                 android:id="@+id/three"
                 android:layout_column="4"
                 android:textSize="70dp" />
@@ -58,7 +55,6 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/four"
                 android:id="@+id/four"
                 android:layout_column="0"
                 android:textSize="70dp" />
@@ -66,7 +62,6 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/five"
                 android:id="@+id/five"
                 android:layout_column="1"
                 android:textSize="70dp" />
@@ -74,7 +69,6 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/six"
                 android:id="@+id/six"
                 android:textSize="70dp"
                 android:layout_column="4" />
@@ -89,21 +83,18 @@
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/seven"
                 android:id="@+id/seven"
                 android:textSize="70dp" />
 
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/eight"
                 android:id="@+id/eight"
                 android:textSize="70dp" />
 
             <Button
                 android:layout_width="110dp"
                 android:layout_height="110dp"
-                android:text="@string/nine"
                 android:id="@+id/nine"
                 android:layout_column="4"
                 android:textSize="70dp" />
