@@ -67,7 +67,7 @@ public class MyActivity extends Activity {
 //            mBoardButtons[i].setText("");
             mBoardButtons[i].setEnabled(true);
             mBoardButtons[i].setOnClickListener(new ButtonClickListener(i));
-            mBoardButtons[i].setBackgroundDrawable(getResources().getDrawable(R.drawable.blank));
+            mBoardButtons[i].setBackground(getResources().getDrawable(R.drawable.blank));
         }
 
         if (mHumanFirst) {
@@ -135,11 +135,11 @@ public class MyActivity extends Activity {
 //        mBoardButtons[location].setText(String.valueOf(player));
         if (player == mGame.HUMAN_PLAYER) {
 //            mBoardButtons[location].setTextColor(Color.GREEN);
-            mBoardButtons[location].setBackgroundDrawable(getResources().getDrawable(R.drawable.x));
+            mBoardButtons[location].setBackground(getResources().getDrawable(R.drawable.x));
         }
         else {
 //            mBoardButtons[location].setTextColor(Color.RED);
-            mBoardButtons[location].setBackgroundDrawable(getResources().getDrawable(R.drawable.o));
+            mBoardButtons[location].setBackground(getResources().getDrawable(R.drawable.o));
         }
     }
 
