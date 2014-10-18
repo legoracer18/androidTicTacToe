@@ -6,9 +6,13 @@
     <string name="first_human">You Go First</string>
     <string name="turn_human">Your Turn</string>
     <string name="turn_computer">Android\'s Turn</string>
+    <string name="turn_player_one">Player One\'s Turn</string>
+    <string name="turn_player_two">Player Two\'s Turn</string>
     <string name="result_tie">It\'s a Tie!</string>
     <string name="result_human_wins">You Won!</string>
     <string name="result_android_wins">Android Won!</string>
+    <string name="result_player_one">Player One Wins!</string>
+    <string name="result_player_two">Player Two Wins!</string>
     <string name="one">1</string>
     <string name="two">2</string>
     <string name="three">3</string>
